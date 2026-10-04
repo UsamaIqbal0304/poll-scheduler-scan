@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Usama Iqbal (Plantroom Labs)
 """What the Niagara poll scheduler does when the bus cannot keep up.
 
 Reads javax.baja.driver.util.BPollScheduler and BAbstractPollService out of
