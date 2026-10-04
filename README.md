@@ -198,6 +198,10 @@ Three checks one station settles in an afternoon
      poll stall while the dibs stack drains.
 ```
 
+## The same finding, written up
+
+The same reading is written up as a page: <https://plantroomlabs.com/tools/poll-scheduler-scan/>. It carries a captured run of this program, the download with its byte count (23,546) and SHA-256 (`f2bf8c99b0933d0c...`) measured off the file the site serves, the Niagara version the bytecode was read on (`4.15.5.22`) beside the version of the JACE this work targets (`4.14.0.162`), and the note on poll rates and tuning policies that explains what a station inherits from the defaults.
+
 ## Licence
 
 MIT. Written by Usama Iqbal at [Plantroom Labs](https://plantroomlabs.com).
